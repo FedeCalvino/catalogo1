@@ -1,0 +1,50 @@
+[
+  {
+    "nombre": "Roller",
+    "fondo":"/Fotos/Rollers/RollerScreen4.jpeg",
+    "subcategorias": [
+      {
+        "nombre": "Screen",
+        "fondo":"/Fotos/Rollers/RollerScreen10.jpeg",
+        "fotos": ["/Fotos/Rollers/RollerScreen1.jpeg","/Fotos/Rollers/RollerScreen2.jpeg","/Fotos/Rollers/RollerScreen3.jpeg","/Fotos/Rollers/RollerScreen4.jpeg","/Fotos/Rollers/RollerScreen5.jpeg","/Fotos/Rollers/RollerScreen6.jpeg","/Fotos/Rollers/RollerScreen7.jpeg","/Fotos/Rollers/RollerScreen8.jpeg","/Fotos/Rollers/RollerScreen9.jpeg","/Fotos/Rollers/RollerScreen10.jpeg","/Fotos/Rollers/RollerScreen11.jpeg","/Fotos/Rollers/RollerScreen12.jpeg","/Fotos/Rollers/RollerScreen13.jpeg","/Fotos/Rollers/RollerScreen14.jpeg","/Fotos/Rollers/RollerScreen15.jpeg","/Fotos/Rollers/RollerScreen16.jpeg","/Fotos/Rollers/RollerScreen17.jpeg","/Fotos/Rollers/RollerScreen18.jpeg","/Fotos/Rollers/RollerScreen19.jpeg"]
+      },
+      {
+        "nombre": "Black Out",
+        "fondo":"/Fotos/Rollers/RollerBlackOut1.jpeg",
+        "fotos": ["/Fotos/Rollers/RollerBlackOut1.jpeg","/Fotos/Rollers/RollerBlackOut2.jpeg"]
+      }
+    ]
+  },
+  {
+    "nombre": "Tradicional",
+    "fondo":"/Fotos/Tradicionales/TradicionalScreenBlanco.jpeg",
+    "subcategorias": [
+      {
+        "nombre": "Screen",
+        "fondo":"/Fotos/Tradicionales/TradicionalScreenBlanco.jpeg",
+        "fotos": ["/fotos/foto1.jpg", "/fotos/foto2.jpg"]
+      },
+      {
+        "nombre": "Black Out",
+        "fondo":"/Fotos/Tradicionales/TradicionalBlackOut2.jpeg",
+        "fotos": ["/fotos/foto1.jpg", "/fotos/foto2.jpg"]
+      }
+      ,
+      {
+        "nombre": "Doble Tradicional",
+        "fondo":"/Fotos/Tradicionales/DobleTradicional2.jpeg",
+        "fotos": ["/fotos/foto1.jpg", "/fotos/foto2.jpg"]
+      }
+    ]
+  },
+  {
+    "nombre": "Romana",
+    "fondo":"/Fotos/Romanas/RomanaScreen.jpeg",
+    "subcategorias": [
+      {
+        "nombre": "Subcategoría 2.1",
+        "fotos": ["/fotos/foto3.jpg", "/fotos/foto4.jpg"]
+      }
+    ]
+  }
+]
