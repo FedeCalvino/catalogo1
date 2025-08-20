@@ -17,23 +17,23 @@
   },
   {
     "nombre": "Tradicional",
-    "fondo":"/Fotos/Tradicionales/TradicionalScreenBlanco.jpeg",
+    "fondo":"/Fotos/Tradicionales/TradicionalLinoBlanco.jpeg",
     "subcategorias": [
       {
-        "nombre": "Screen",
-        "fondo":"/Fotos/Tradicionales/TradicionalScreenBlanco.jpeg",
-        "fotos": ["/fotos/foto1.jpg", "/fotos/foto2.jpg"]
+        "nombre": "Lino",
+        "fondo":"/Fotos/Tradicionales/TradicionalLinoBlanco.jpeg",
+        "fotos": ["/Fotos/Tradicionales/TradicionalLinoBlanco.jpeg", "/Fotos/Tradicionales/TradicionalLinoBlanco2.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco3.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco4.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco5.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco6.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco7.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco8.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco9.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco10.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco11.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco12.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco13.jpeg"]
       },
       {
         "nombre": "Black Out",
         "fondo":"/Fotos/Tradicionales/TradicionalBlackOut2.jpeg",
-        "fotos": ["/fotos/foto1.jpg", "/fotos/foto2.jpg"]
+        "fotos": ["/Fotos/Tradicionales/TradicionalBlackOut1.jpeg","/Fotos/Tradicionales/TradicionalBlackOut2.jpeg","/Fotos/Tradicionales/TradicionalBlackOut3.jpeg","/Fotos/Tradicionales/TradicionalBlackOut4.jpeg"]
       }
       ,
       {
         "nombre": "Doble Tradicional",
         "fondo":"/Fotos/Tradicionales/DobleTradicional2.jpeg",
-        "fotos": ["/fotos/foto1.jpg", "/fotos/foto2.jpg"]
+        "fotos": ["/Fotos/Tradicionales/DobleTradicional1.jpeg", "/Fotos/Tradicionales/DobleTradicional2.jpeg","/Fotos/Tradicionales/DobleTradicional3.jpeg"]
       }
     ]
   },
