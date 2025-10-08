@@ -22,7 +22,8 @@
       {
         "nombre": "Lino",
         "fondo":"/Fotos/Tradicionales/TradicionalLinoBlanco.jpeg",
-        "fotos": ["/Fotos/Tradicionales/TradicionalLinoBlanco.jpeg", "/Fotos/Tradicionales/TradicionalLinoBlanco2.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco3.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco4.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco5.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco6.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco7.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco8.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco9.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco10.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco11.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco12.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco13.jpeg"]
+        "fotos": ["/Fotos/Tradicionales/TradicionalLinoBlanco.jpeg", "/Fotos/Tradicionales/TradicionalLinoBlanco2.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco3.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco4.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco5.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco6.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco7.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco8.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco9.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco10.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco11.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco12.jpeg","/Fotos/Tradicionales/TradicionalLinoBlanco13.jpeg","/Fotos/Tradicionales/TradicionalVideo1.mp4"],
+        "videos":["/Fotos/Tradicionales/TradicionalVideo1.mp4"]
       },
       {
         "nombre": "Black Out",
@@ -40,11 +41,10 @@
   {
     "nombre": "Romana",
     "fondo":"/Fotos/Romanas/RomanaScreen.jpeg",
-    "subcategorias": [
-      {
-        "nombre": "Subcategoría 2.1",
-        "fotos": ["/fotos/foto3.jpg", "/fotos/foto4.jpg"]
-      }
+    "fotos": [
+      
+        "/Fotos/Romanas/RomanaScreen.jpeg", "/Fotos/Romanas/RomanaScreen1.jpeg","/Fotos/Romanas/RomanaScreen2.jpeg","/Fotos/Romanas/RomanaScreen3.jpeg"
+      
     ]
   }
 ]
