@@ -31,7 +31,7 @@ export default function Galeria({ titulo, fotos, onBack }) {
           </Button>
         </Col>
         <Col>
-          <h1>{titulo}</h1>
+          <h1 style={{marginTop:"10px" }}>{titulo}</h1>
         </Col>
         <Col></Col>
       </Row>

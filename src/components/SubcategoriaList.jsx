@@ -10,7 +10,7 @@ export default function SubcategoriaList({ categoria, onSelect, onBack }) {
         <Button className='botonVolver' onClick={onBack}>Volver</Button>
         </Col>
         <Col>
-        <h2>{categoria.nombre}</h2>
+        <h2 style={{marginTop:"17px" }}>{categoria.nombre}</h2>
         </Col>
         <Col>
         </Col>
